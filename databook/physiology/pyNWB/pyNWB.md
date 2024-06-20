@@ -1,5 +1,3 @@
-# pyNWB
+# Placeholder
 
-# PLACEHOLDER
-
-This will be a tutorial for pyNWB (once it's been written and okayed).
+For a tutorial for using PyNWB to access Allen Brain Observatory datasets.
