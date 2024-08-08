@@ -5,7 +5,7 @@ jupytext:
     extension: .md
     format_name: myst
     format_version: 0.13
-    jupytext_version: 1.11.5
+    jupytext_version: 1.16.3
 kernelspec:
   display_name: Python 3
   language: python
@@ -271,7 +271,7 @@ The key columns are:
 * - Cell Type
   - Subclass
   - Description
-  - `23P`
+* - `23P`
   - Excitatory
   - Layer 2/3 cells
 * - `4P` 
